@@ -1,0 +1,6 @@
+mongo db
+
+
+
+
+mongodb+srv://Zajjhay:<Atlaszajjhay >@cluster0.jslv2qu.mongodb.net/Skeleton?retryWrites=true&w=majority
